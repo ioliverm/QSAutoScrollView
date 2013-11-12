@@ -1,9 +1,9 @@
 //
 //  QSAutoScrollView.m
-//  Ride
+//  QuietSoft
 //
 //  Created by Ivan Oliver Martínez on 25/10/13.
-//  Copyright (c) 2013 Ride. All rights reserved.
+//  Copyright (c) 2013 Quiet Soft. All rights reserved.
 //
 
 #import "QSAutoScrollView.h"
